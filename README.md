@@ -12,7 +12,7 @@
 
 
 AntiXSS - Library
-=============
+==============
 
 "Cross-site scripting (XSS) is a type of computer security vulnerability typically found in Web applications. XSS enables 
 attackers to inject client-side script into Web pages viewed by other users. A cross-site scripting vulnerability may be 
